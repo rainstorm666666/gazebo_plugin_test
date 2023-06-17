@@ -1,6 +1,6 @@
 1.
 ```
-git clone https://github.com/rainstorm666666/robot_test.git
+git clone https://github.com/rainstorm666666/gazebo_plugin_test.git
 ```
 2.
 ```
